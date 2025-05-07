@@ -1,6 +1,0 @@
-@ItauChalenge_HostAddress = http://localhost:5259
-
-GET {{ItauChalenge_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
