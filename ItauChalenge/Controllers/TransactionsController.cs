@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace ItauChalenge.Controllers
 {
     [ApiController]
-    public class MainController : ControllerBase
+    public class TransactionsController : ControllerBase
     {
         private readonly ITransactionsService _transactionsService;
 
-        public MainController(ITransactionsService transactionsService)
+        public TransactionsController(ITransactionsService transactionsService)
         {
             _transactionsService = transactionsService;
         }

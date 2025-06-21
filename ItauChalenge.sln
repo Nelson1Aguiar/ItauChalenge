@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItauChalenge", "ItauChalenge\ItauChalenge.csproj", "{8A483C63-83FD-48DC-A244-D262C25DB5DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItauChalengeTests", "ItauChalengeTests\ItauChalengeTests.csproj", "{3620C379-EAA6-471A-94D6-B6724F8CE75B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A483C63-83FD-48DC-A244-D262C25DB5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A483C63-83FD-48DC-A244-D262C25DB5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A483C63-83FD-48DC-A244-D262C25DB5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3620C379-EAA6-471A-94D6-B6724F8CE75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3620C379-EAA6-471A-94D6-B6724F8CE75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3620C379-EAA6-471A-94D6-B6724F8CE75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3620C379-EAA6-471A-94D6-B6724F8CE75B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
